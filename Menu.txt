@@ -1,0 +1,17 @@
+         - DEMİRDEN PİZZA -
+
+* Lütfen Bir Pizza Tabanı Seçiniz:
+1: Klasik Pizza.............125,00 TL
+2: Margarita Pizza..........115,00 TL
+3: Türk Pizza...............110,00 TL
+4: Sade Pizza...............95,00 TL
+* ve seçeceğiniz sos:
+11: Zeytin..................3,50 TL
+12: Mantar..................5,00 TL
+13: Keçi Peyniri............6,00 TL
+14: Et......................9,00 TL
+15: Soğan...................2,50 TL
+16: Mısır...................5,00 TL
+
+* Teşekkür ederiz!
+
