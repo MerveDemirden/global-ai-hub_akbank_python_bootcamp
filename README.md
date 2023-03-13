@@ -1,0 +1,1 @@
+# global-ai-hub_akbank_python_bootcamp
